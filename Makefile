@@ -1,0 +1,3 @@
+local:
+	nuxi dev
+

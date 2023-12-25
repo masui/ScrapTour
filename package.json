@@ -1,0 +1,14 @@
+{
+  "name": "ScrapTour",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "node": "^21.2.0",
+    "nuxi": "^3.10.0",
+    "nuxt": "^3.8.2"
+  }
+}
